@@ -1,0 +1,1 @@
+It's my first git file of the IntelliJ IDEA.
